@@ -26,7 +26,7 @@ export class ItemController {
     } catch (error) {
       console.error(error);
       if (Boolean(error.response) && error.response.status === 404) {
-        res.status(404).send('No results found');
+        res.status(404).json({ message: 'No results found' });
       } else {
         res.status(500).send('Internal Server Error');
       }
@@ -47,7 +47,7 @@ export class ItemController {
     } catch (error) {
       console.error(error);
       if (Boolean(error.response) && error.response.status === 404) {
-        res.status(404).send('Item not found');
+        res.status(404).json({ message: 'No results found' });
       } else {
         res.status(500).send('Internal Server Error');
       }
