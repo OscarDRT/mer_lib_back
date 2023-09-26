@@ -35,8 +35,8 @@ Mi Aplicación es un servidor basado en Express que interactúa con la API de Me
 
 ## Instalación
 
-1. Clonar el repositorio: `git clone https://github.com/OscarDRT/mercado_libre_back`
-2. Cambiar al directorio del proyecto: `cd mercado_libre_back`
+1. Clonar el repositorio: `git clone https://github.com/OscarDRT/mer_lib_back`
+2. Cambiar al directorio del proyecto: `cd mer_lib_back`
 3. Instalar las dependencias: `yarn install`
 
 ## Uso
