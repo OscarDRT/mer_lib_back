@@ -12,6 +12,6 @@ app.get('/', (req, res) => {
 
 app.use('/api/items', itemRouter);
 
-app.listen(9000, () => {
+app.listen(3000, () => {
   console.log('Server runnuning on port 3000');
 });
