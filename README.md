@@ -120,8 +120,8 @@ Este proyecto no contiene pruebas actualmente. Si deseas contribuir añadiendo p
 
 ## Enlaces Útiles
 
-- [Repositorio del Proyecto](https://github.com/OscarDRT/mercado_libre_back)
-- [Reportar un Problema](https://github.com/OscarDRT/mercado_libre_back/issues)
+- [Repositorio del Proyecto](https://github.com/OscarDRT/mer_lib_back)
+- [Reportar un Problema](https://github.com/OscarDRT/mer_lib_back/issues)
 
 ## Capturas de Pantalla o Demo
 
@@ -129,6 +129,6 @@ Actualmente no hay capturas de pantalla o demo disponibles. Si deseas contribuir
 
 ## Contribuir
 
-Para contribuir al proyecto, por favor revisa las [directrices de contribución](CONTRIBUTING.md) y asegúrate de seguir los estándares y directrices establecidos. Puedes reportar problemas o sugerencias a través de [GitHub Issues](https://github.com/OscarDRT/mercado_libre_back/issues) y enviar tus mejoras o correcciones a través de Pull Requests.
+Para contribuir al proyecto, por favor revisa las [directrices de contribución](CONTRIBUTING.md) y asegúrate de seguir los estándares y directrices establecidos. Puedes reportar problemas o sugerencias a través de [GitHub Issues](https://github.com/OscarDRT/mer_lib_back/issues) y enviar tus mejoras o correcciones a través de Pull Requests.
 
 Te agradezco tu interés en mejorar este proyecto. Si tienes alguna pregunta o necesitas ayuda, no dudes en ponerte en contacto.
